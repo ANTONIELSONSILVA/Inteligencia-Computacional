@@ -1,0 +1,809 @@
+{
+   "Ucionice":{
+      "a":[
+         "Atelje"
+      ],
+      "k":[
+         "Kolarac"
+      ],
+      "n":[
+         "U1",
+         "U8"
+      ],
+      "r":[
+         "U3",
+         "U4",
+         "U5",
+         "U7"
+      ],
+      "s":[
+         "Studio"
+      ]
+   },
+   "Casovi":[
+      {
+         "disciplina":"Tradutores de programas",
+         "Modelo":"P",
+         "Professor(a)":"Vujosevic Dusan",
+         "Turma":[
+            "301",
+            "302",
+            "303",
+            "304",
+            "305",
+            "306",
+            "307",
+            "308",
+            "309",
+            "309a"
+         ],
+         "A sala de aula":"n",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Interação humano-computador",
+         "Modelo":"P",
+         "Professor(a)":"Vujosevic Dusan",
+         "Turma":[
+            "301",
+            "302",
+            "303",
+            "304",
+            "305",
+            "306",
+            "307",
+            "308",
+            "309",
+            "309a",
+            "2s1",
+            "2s2"
+         ],
+         "A sala de aula":"k",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Aprendizado de máquina",
+         "Modelo":"P",
+         "Professor(a)":"Ilic Nemanja",
+         "Turma":[
+            "301",
+            "302",
+            "306",
+            "308"
+         ],
+         "A sala de aula":"n",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Interação humano-computador",
+         "Modelo":"V",
+         "Professor(a)":"Radosavljevic Nemanja",
+         "Turma":[
+            "301",
+            "303",
+            "304",
+            "305"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Programação da Web",
+         "Modelo":"P",
+         "Professor(a)":"Vidakovic MIlan",
+         "Turma":[
+            "301",
+            "303",
+            "304",
+            "307",
+            "308",
+            "309",
+            "314",
+            "319",
+            "322"
+         ],
+         "A sala de aula":"n",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Programação da Web",
+         "Modelo":"V",
+         "Professor(a)":"Gavrilovic Vuk",
+         "Turma":[
+            "301",
+            "303",
+            "304",
+            "307",
+            "322"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Tradutores de programas",
+         "Modelo":"V",
+         "Professor(a)":"Stankovic Ivana",
+         "Turma":[
+            "301",
+            "305",
+            "308"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Componentes de software",
+         "Modelo":"P",
+         "Professor(a)":"Dimic Surla Bojana",
+         "Turma":[
+            "301",
+            "307",
+            "309a"
+         ],
+         "A sala de aula":"n",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Componentes de software",
+         "Modelo":"V",
+         "Professor(a)":"Radovic Mihailo",
+         "Turma":[
+            "301",
+            "307",
+            "309a"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Aprendizado de máquina",
+         "Modelo":"V",
+         "Professor(a)":"Jovanovic Nikola",
+         "Turma":[
+            "301",
+            "308",
+            "302",
+            "306"
+         ],
+         "A sala de aula":"n",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Algorítmos genéticos",
+         "Modelo":"V",
+         "Professor(a)":"Tomic Milan",
+         "Turma":[
+            "302",
+            "303"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Tradutores de programas",
+         "Modelo":"V",
+         "Professor(a)":"Stankovic Ivana",
+         "Turma":[
+            "302",
+            "303",
+            "304"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Algorítmos genéticos",
+         "Modelo":"P",
+         "Professor(a)":"Vasiljevic Jelena",
+         "Turma":[
+            "302",
+            "303",
+            "305",
+            "306",
+            "309",
+            "309a"
+         ],
+         "A sala de aula":"n",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Programação funcional",
+         "Modelo":"P",
+         "Professor(a)":"Dimic Surla Bojana",
+         "Turma":[
+            "302",
+            "304",
+            "309"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Programação funcional",
+         "Modelo":"V",
+         "Professor(a)":"Ciganovic Igor",
+         "Turma":[
+            "302",
+            "304",
+            "309"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Interação humano-computador",
+         "Modelo":"V",
+         "Professor(a)":"Radosavljevic Nemanja",
+         "Turma":[
+            "302",
+            "307",
+            "306"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Desenvolvimento de aplicativos móveis",
+         "Modelo":"P",
+         "Professor(a)":"Zirojevic Nemanja",
+         "Turma":[
+            "303",
+            "304",
+            "305",
+            "306",
+            "307",
+            "308",
+            "313",
+            "314"
+         ],
+         "A sala de aula":"n",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Desenvolvimento de aplicativos móveis",
+         "Modelo":"V",
+         "Professor(a)":"Kojadinovic Dragoljub",
+         "Turma":[
+            "303",
+            "304",
+            "305",
+            "306",
+            "307",
+            "308",
+            "313",
+            "314"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Modelagem e simulação",
+         "Modelo":"P",
+         "Professor(a)":"Jankovic Radomir",
+         "Turma":[
+            "305",
+            "319",
+            "323",
+            "309a",
+            "324"
+         ],
+         "A sala de aula":"n",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Tradutores de programas",
+         "Modelo":"V",
+         "Professor(a)":"Stankovic Ivana",
+         "Turma":[
+            "306",
+            "307",
+            "309",
+            "309a"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Interação humano-computador",
+         "Modelo":"V",
+         "Professor(a)":"Radosavljevic Nemanja",
+         "Turma":[
+            "308",
+            "309",
+            "309a"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Programação da Web",
+         "Modelo":"V",
+         "Professor(a)":"Gavrilovic Vuk",
+         "Turma":[
+            "308",
+            "309",
+            "314",
+            "319"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Algorítmos genéticos",
+         "Modelo":"V",
+         "Professor(a)":"Tomic Milan",
+         "Turma":[
+            "309",
+            "309a",
+            "305",
+            "306"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Modelagem e simulação",
+         "Modelo":"V",
+         "Professor(a)":"Jankovic Radomir",
+         "Turma":[
+            "309a",
+            "324",
+            "305"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Segurança de rede",
+         "Modelo":"P",
+         "Professor(a)":"Babic Djorde",
+         "Turma":[
+            "313",
+            "314",
+            "319",
+            "323",
+            "324",
+            "322"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Segurança de rede",
+         "Modelo":"V",
+         "Professor(a)":"Bojovic Petar",
+         "Turma":[
+            "313",
+            "314",
+            "319",
+            "323",
+            "324",
+            "322"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Compressão de dados",
+         "Modelo":"P",
+         "Professor(a)":"Vukotic Selena",
+         "Turma":[
+            "313",
+            "314",
+            "319",
+            "323",
+            "324",
+            "322"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"3"
+      },
+      {
+         "disciplina":"Compressão de dados",
+         "Modelo":"V",
+         "Professor(a)":"Vukotic Selena",
+         "Turma":[
+            "313",
+            "314",
+            "319",
+            "323",
+            "324",
+            "322"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Codificação e teoria da informação",
+         "Modelo":"P",
+         "Professor(a)":"Vucic Desimir",
+         "Turma":[
+            "313",
+            "314",
+            "319",
+            "323",
+            "324",
+            "322"
+         ],
+         "A sala de aula":"n",
+         "Trajanje":"3"
+      },
+      {
+         "disciplina":"Codificação e teoria da informação",
+         "Modelo":"V",
+         "Professor(a)":"Jovanovic Miljana",
+         "Turma":[
+            "313",
+            "314",
+            "319",
+            "323",
+            "324",
+            "322"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Introdução à robótica",
+         "Modelo":"P",
+         "Professor(a)":"Jovanovic Milos",
+         "Turma":[
+            "313",
+            "323"
+         ],
+         "A sala de aula":"n",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Introdução à robótica",
+         "Modelo":"V",
+         "Professor(a)":"Jovanovic Miljana",
+         "Turma":[
+            "313",
+            "323"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Modelagem e simulação",
+         "Modelo":"V",
+         "Professor(a)":"Jankovic Radomir",
+         "Turma":[
+            "319",
+            "323"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Infraestrutura de datacenter",
+         "Modelo":"P",
+         "Professor(a)":"Martic Goran",
+         "Turma":[
+            "324",
+            "322"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Infraestrutura de datacenter",
+         "Modelo":"V",
+         "Professor(a)":"Martic Goran",
+         "Turma":[
+            "324",
+            "322"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"design gráfico 2",
+         "Modelo":"P",
+         "Professor(a)":"Malesevic Nenad",
+         "Turma":[
+            "3d1"
+         ],
+         "A sala de aula":"n",
+         "Trajanje":"3"
+      },
+      {
+         "disciplina":"design gráfico 2",
+         "Modelo":"V",
+         "Professor(a)":"Malesevic Nenad",
+         "Turma":[
+            "3d1"
+         ],
+         "A sala de aula":"a",
+         "Trajanje":"3"
+      },
+
+      {
+         "disciplina":"Animação por computador",
+         "Modelo":"P",
+         "Professor(a)":"Djuric Milan",
+         "Turma":[
+            "3d1"
+         ],
+         "A sala de aula":"n",
+         "Trajanje":"3"
+      },
+      {
+         "disciplina":"Animação por computador",
+         "Modelo":"V",
+         "Professor(a)":"Djuric Milan",
+         "Turma":[
+            "3d1"
+         ],
+         "A sala de aula":"n",
+         "Trajanje":"3"
+      },
+      {
+         "disciplina":"Upravljanje i odrzavanje Windows Server okruzenja",
+         "Modelo":"P",
+         "Professor(a)":"Lale Sinisa",
+         "Turma":[
+            "3s1"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"3"
+      },
+      {
+         "disciplina":"Upravljanje i odrzavanje Windows Server okruzenja",
+         "Modelo":"P",
+         "Professor(a)":"Lale Sinisa",
+         "Turma":[
+            "3s1"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"3"
+      },
+      {
+         "disciplina":"Implementiranje Microsoft ISA servera",
+         "Modelo":"P",
+         "Professor(a)":"Lale Sinisa",
+         "Turma":[
+            "3s1"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"3"
+      },
+      {
+         "disciplina":"Implementiranje Microsoft ISA servera",
+         "Modelo":"P",
+         "Professor(a)":"Lale Sinisa",
+         "Turma":[
+            "3s1"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"3"
+      },
+      {
+         "disciplina":"Prakticne tehnike zastite u IP mrezama",
+         "Modelo":"P",
+         "Professor(a)":"Bojovic Petar",
+         "Turma":[
+            "3s1"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"3"
+      },
+      {
+         "disciplina":"Prakticne tehnike zastite u IP mrezama",
+         "Modelo":"V",
+         "Professor(a)":"Jankovski Ivan",
+         "Turma":[
+            "3s1"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"3"
+      },
+      {
+         "disciplina":"Istorija racunarstva",
+         "Modelo":"P",
+         "Professor(a)":"Zahorjanski Miroljub",
+         "Turma":[
+            "3s1",
+            "3s2"
+         ],
+         "A sala de aula":"n",
+         "Trajanje":"2"
+      },
+      {
+         "disciplina":"Razvoj infrastrukture i servisa u oblaku",
+         "Modelo":"P",
+         "Professor(a)":"Miletic Misa",
+         "Turma":[
+            "3s2"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"3"
+      },
+      {
+         "disciplina":"Razvoj infrastrukture i servisa u oblaku",
+         "Modelo":"V",
+         "Professor(a)":"Miletic Misa",
+         "Turma":[
+            "3s2"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"3"
+      },
+      {
+         "disciplina":"Razvoj web aplikacija i servisa",
+         "Modelo":"P",
+         "Professor(a)":"Markovic Nemanja",
+         "Turma":[
+            "3s2"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"3"
+      },
+      {
+         "disciplina":"Razvoj web aplikacija i servisa",
+         "Modelo":"P",
+         "Professor(a)":"Markovic Nemanja",
+         "Turma":[
+            "3s2"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"3"
+      },
+      {
+         "disciplina":"Microsoft tehnologije za pristup podacima",
+         "Modelo":"P",
+         "Professor(a)":"Milosavljevic Milos",
+         "Turma":[
+            "3s2"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"3"
+      },
+      {
+         "disciplina":"Microsoft tehnologije za pristup podacima",
+         "Modelo":"P",
+         "Professor(a)":"Milosavljevic Milos",
+         "Turma":[
+            "3s2"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"3"
+      },
+      {
+         "disciplina":"Konkurentni i distribuirani sistemi",
+         "Modelo":"V",
+         "Professor(a)":"Milojkovic Branislav",
+         "Turma":[
+            "401"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"3"
+      },
+      {
+         "disciplina":"Softversko inzenjerstvo",
+         "Modelo":"V",
+         "Professor(a)":"Markovic Ana",
+         "Turma":[
+            "401"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"4"
+      },
+      {
+         "disciplina":"Softversko inzenjerstvo",
+         "Modelo":"P",
+         "Professor(a)":"Perisic Branko",
+         "Turma":[
+            "401",
+            "402"
+         ],
+         "A sala de aula":"n",
+         "Trajanje":"4"
+      },
+      {
+         "disciplina":"Teorija algoritama, automata i jezika",
+         "Modelo":"P",
+         "Professor(a)":"Jovanovic Jelena",
+         "Turma":[
+            "401",
+            "402"
+         ],
+         "A sala de aula":"n",
+         "Trajanje":"3"
+      },
+      {
+         "disciplina":"Teorija algoritama, automata i jezika",
+         "Modelo":"V",
+         "Professor(a)":"Tomic Milan",
+         "Turma":[
+            "401",
+            "402"
+         ],
+         "A sala de aula":"n",
+         "Trajanje":"3"
+      },
+      {
+         "disciplina":"Konkurentni i distribuirani sistemi",
+         "Modelo":"P",
+         "Professor(a)":"Milinkovic Stevan",
+         "Turma":[
+            "401",
+            "402",
+            "405"
+         ],
+         "A sala de aula":"n",
+         "Trajanje":"3"
+      },
+      {
+         "disciplina":"Konkurentni i distribuirani sistemi",
+         "Modelo":"V",
+         "Professor(a)":"Milojkovic Branislav",
+         "Turma":[
+            "402"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"3"
+      },
+      {
+         "disciplina":"Softversko inzenjerstvo",
+         "Modelo":"V",
+         "Professor(a)":"Markovic Ana",
+         "Turma":[
+            "402"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"4"
+      },
+      {
+         "disciplina":"Konkurentni i distribuirani sistemi",
+         "Modelo":"V",
+         "Professor(a)":"Milojkovic Branislav",
+         "Turma":[
+            "405"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"3"
+      },
+      {
+         "disciplina":"Digitalna obrada signala",
+         "Modelo":"P",
+         "Professor(a)":"Babic Djorde",
+         "Turma":[
+            "405"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"3"
+      },
+      {
+         "disciplina":"Digitalna obrada signala",
+         "Modelo":"V",
+         "Professor(a)":"Jovanovic Miljana",
+         "Turma":[
+            "405"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"3"
+      },
+      {
+         "disciplina":"Namenski racunarski sistemi",
+         "Modelo":"P",
+         "Professor(a)":"Jovanovic Milos",
+         "Turma":[
+            "405"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"3"
+      },
+      {
+         "disciplina":"Namenski racunarski sistemi",
+         "Modelo":"V",
+         "Professor(a)":"Stambolovic Bogdana",
+         "Turma":[
+            "405"
+         ],
+         "A sala de aula":"r",
+         "Trajanje":"3"
+      }
+   ]
+}
